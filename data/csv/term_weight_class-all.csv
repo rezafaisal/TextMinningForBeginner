@@ -1,0 +1,7 @@
+doc_id,text,class_label
+doc_1,aku aku aku hanya aku saja,negatif
+doc_2,makan aku makan saja,positif
+doc_3,kamu dan aku tidak bisa,negatif
+doc_4,sepakbola dan basket adalah olahraga seru,positif
+doc_5,final badminton seru,positif
+doc_6,aku dan kamu main badminton,positif
